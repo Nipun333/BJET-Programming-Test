@@ -13,10 +13,10 @@ The written test usually consists of 5 categories of questions:
 * String
 * Recurrsion
 
-Basically the question comes based on these 5 categories.
+Basically, the questions come in based on these 5 categories.
 
 <hr/>
 
 Hope you will find it useful. **If you find it useful then leave a ★**.
 
-If you want to Contribute, then you are most welcome :smile:
+If you want to contribute, you are most welcome :smile:
